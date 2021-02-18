@@ -1,0 +1,1104 @@
+[
+    {
+        "companies": [
+            "Nintendo",
+            "Nintendo EAD"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co23jy.jpg",
+        "esrb-rating": 8,
+        "igbd-id": 1070,
+        "name": "Super Mario World",
+        "pegi-rating": 2,
+        "platforms": [
+            "Wii",
+            "Super Nintendo Entertainment System (SNES)",
+            "Wii U",
+            "Nintendo Switch",
+            "New Nintendo 3DS"
+        ],
+        "release_date": 682905600,
+        "slug": "super-mario-world",
+        "summary": "A 2D platformer and first entry on the SNES in the Super Mario franchise, Super Mario World follows Mario as he attempts to defeat Bowser's underlings and rescue Princess Peach from his clutches. The game features a save system, a less linear world map, an expanded movement arsenal and numerous new items for Mario, alongside new approaches to level design and art direction.",
+        "total_rating": 96.3731347913117,
+        "total_rating_count": 1027
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "Nintendo EAD",
+            "St. GIGA"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1nqk.jpg",
+        "esrb-rating": 8,
+        "igbd-id": 1026,
+        "name": "The Legend of Zelda: A Link to the Past",
+        "pegi-rating": 2,
+        "platforms": [
+            "Wii",
+            "Super Nintendo Entertainment System (SNES)",
+            "Game Boy Advance",
+            "Wii U",
+            "Virtual Console (Nintendo)",
+            "Super Famicom",
+            "Nintendo Switch",
+            "New Nintendo 3DS",
+            "Satellaview"
+        ],
+        "release_date": 690681600,
+        "slug": "the-legend-of-zelda-a-link-to-the-past",
+        "summary": "A top-down action/adventure title in which Link, a blacksmith's nephew living in the fantastical land of Hyrule, must free the land from the evildoings of Ganon by taking up the mythical Master Sword and collecting the three Triforces in order to free the Seven Maidens, including the princess of Hyrule, Zelda, from the dungeons and castles of the Dark World.",
+        "total_rating": 96.21465837538545,
+        "total_rating_count": 981
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "Intelligent Systems Co., Ltd.",
+            "Nintendo R&D1"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1o11.jpg",
+        "esrb-rating": 8,
+        "igbd-id": 1103,
+        "name": "Super Metroid",
+        "pegi-rating": 2,
+        "platforms": [
+            "Wii",
+            "Super Nintendo Entertainment System (SNES)",
+            "Wii U",
+            "Nintendo Switch",
+            "New Nintendo 3DS"
+        ],
+        "release_date": 764035200,
+        "slug": "super-metroid",
+        "summary": "Super Metroid is an 2D, side-scrolling action-adventure game, which primarily takes place on the fictional planet Zebes, a large, open-ended world with areas connected by doors and elevators. The player controls Samus Aran as she searches the planet for a Metroid that was stolen by Ridley, the leader of the Space Pirates. Samus can run, jump, crouch, and fire a weapon in eight directions; she can also perform other actions, such as wall jumping, jumping from one wall to another in rapid succession to reach higher areas. The Moon Walk ability, named after the popular dance move of the same name, allows Samus to walk backwards while firing or charging her weapon. The heads-up display shows Samus' health, the supply mode for reserve tanks, icons that represent weapons, and an automap that shows her location and its surroundings.",
+        "total_rating": 96.2022718027707,
+        "total_rating_count": 549
+    },
+    {
+        "companies": [
+            "Sony Interactive Entertainment",
+            "SIE Santa Monica Studio"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1tmu.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 19560,
+        "name": "God of War",
+        "pegi-rating": 5,
+        "platforms": [
+            "PlayStation 4"
+        ],
+        "release_date": 1524182400,
+        "slug": "god-of-war--1",
+        "summary": "\"It is a new beginning for Kratos. Living as a man, outside the shadow of the gods, he seeks solitude in the unfamiliar lands of Norse mythology. With new purpose and his son at his side, Kratos must fight for survival as powerful forces threaten to disrupt the new life he has created...\"",
+        "total_rating": 96.0171274880923,
+        "total_rating_count": 1228
+    },
+    {
+        "companies": [
+            "Naughty Dog",
+            "Sony Computer Entertainment, Inc. (SCEI)"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1ile.jpg",
+        "igbd-id": 6036,
+        "name": "The Last of Us Remastered",
+        "pegi-rating": 5,
+        "platforms": [
+            "PlayStation 4"
+        ],
+        "release_date": 1406592000,
+        "slug": "the-last-of-us-remastered",
+        "summary": "Winner of over 200 game of the year awards, The Last of Us has been remastered for the PlayStation 4. Now featuring higher resolution character models, improved shadows and lighting, in addition to several other gameplay improvements. Abandoned cities reclaimed by nature. A population decimated by a modern plague. Survivors are killing each other for food, weapons whatever they can get their hands on. Joel, a brutal survivor, and Ellie, a brave young teenage girl who is wise beyond her years, must work together if they hope to survive their journey across the US. The Last of Us: Remastered includes the Abandoned Territories Map Pack, Reclaimed Territories Map Pack, and the critically acclaimed The Last of Us: Left Behind Single Player campaign.",
+        "total_rating": 95.9499479364333,
+        "total_rating_count": 715
+    },
+    {
+        "companies": [
+            "Square Soft",
+            "Tose",
+            "Nintendo",
+            "Square Enix",
+            "SCE Australia",
+            "Square Soft",
+            "Sony Computer Entertainment Europe",
+            "Square Enix"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co25ps.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 426,
+        "name": "Final Fantasy VI",
+        "pegi-rating": 2,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation",
+            "Super Nintendo Entertainment System (SNES)",
+            "Game Boy Advance",
+            "Android",
+            "iOS",
+            "PlayStation Network",
+            "Virtual Console (Nintendo)",
+            "Super Famicom"
+        ],
+        "release_date": 765244800,
+        "slug": "final-fantasy-vi",
+        "summary": "Part of the Final Fantasy turn-based Japanese RPG franchise, Final Fantasy VI follows an ensemble cast of characters as they attempt to save the their steampunk/fantasy land from the repercussions of the otherworldly campaigns of Emperor Gestahl and his court jester/general Kefka, while trying to resolve their personal issues together and find meaning in their own existence through their tumultuous journey.",
+        "total_rating": 95.20868797492214,
+        "total_rating_count": 468
+    },
+    {
+        "companies": [
+            "NIS America",
+            "Atlus",
+            "Atlus USA"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1n1x.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 2985,
+        "name": "Persona 4 Golden",
+        "pegi-rating": 4,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation Vita"
+        ],
+        "release_date": 1339718400,
+        "slug": "persona-4-golden",
+        "summary": "Persona 4 Golden (known as Persona 4 The Golden in Japan), is an enhanced port of the PlayStation 2's Shin Megami Tensei: Persona 4 for the PlayStation Vita. It was released in 2012 in Japan and North America and in 2013 in Europe. It is the 5th chronological instalment in the Persona series and the 10th game released overall.",
+        "total_rating": 95.16264059188345,
+        "total_rating_count": 197
+    },
+    {
+        "companies": [
+            "Nintendo of America",
+            "Nintendo of Europe",
+            "Nintendo",
+            "Nintendo EPD"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1vcp.jpg",
+        "esrb-rating": 9,
+        "igbd-id": 7346,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "pegi-rating": 3,
+        "platforms": [
+            "Wii U",
+            "Nintendo Switch"
+        ],
+        "release_date": 1488499200,
+        "slug": "the-legend-of-zelda-breath-of-the-wild",
+        "summary": "In this 3D open-world entry in the Zelda series, Link is awakened from a deep slumber without his past memories in the post-apocalyptic Kingdom of Hyrule, and sets off on a journey to defeat the ancient evil Calamity Ganon. Link treks, climbs and glides through fields, forests and mountain ranges while meeting and helping friendly folk and defeating enemies in order to gather up the strength to face Ganon.",
+        "total_rating": 94.90283671437109,
+        "total_rating_count": 1315
+    },
+    {
+        "companies": [
+            "Konami Computer Entertainment Japan",
+            "Kojima Productions",
+            "Konami"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1vd6.jpg",
+        "igbd-id": 479,
+        "name": "Metal Gear Solid 3: Subsistence",
+        "platforms": [
+            "PlayStation 2"
+        ],
+        "release_date": 1135209600,
+        "slug": "metal-gear-solid-3-subsistence",
+        "summary": "Metal Gear Solid 3: Subsistence continues the Metal Gear Solid series tradition of follow-up enhanced, international version releases. Subsistence's online multiplayer component, titled Metal Gear Online, consists of five tournament-style game modes, each with a capacity of up to eight players. This mode pits players, each playing as a generic soldier against each other in deathmatch battles and variations of capture the flag, using stages, items, maneuvers, and units (such as the KGB, GRU or Ocelot Unit) from the main game.",
+        "total_rating": 94.70312680227255,
+        "total_rating_count": 145
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "Nintendo EAD"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co2kn9.jpg",
+        "esrb-rating": 8,
+        "igbd-id": 1073,
+        "name": "Super Mario World 2: Yoshi's Island",
+        "platforms": [
+            "Super Nintendo Entertainment System (SNES)",
+            "Nintendo Switch"
+        ],
+        "release_date": 807580800,
+        "slug": "super-mario-world-2-yoshi-s-island",
+        "summary": "Super Mario World 2: Yoshi's Island is a platform video game acting as a prequel to 1990's Super Mario World. The game casts players as Yoshi as he escorts Baby Mario through 48 levels in order to reunite him with his brother Luigi, who had been kidnapped by Baby Bowser's minions. As a Super Mario series platformer, Yoshi runs and jumps to reach the end of the level while solving puzzles and collecting items. In a style new to the series, the game has a hand-drawn aesthetic and is the first to have Yoshi as its main character. The game introduces his signature abilities to flutter jump, produce eggs from swallowed enemies, and transform into vehicles.",
+        "total_rating": 94.59509702479261,
+        "total_rating_count": 401
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "HAL Laboratory"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co21yv.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 1627,
+        "name": "Super Smash Bros. Melee",
+        "platforms": [
+            "Nintendo GameCube"
+        ],
+        "release_date": 1022198400,
+        "slug": "super-smash-bros-melee",
+        "summary": "Super Smash Bros. Melee is the second installment in the Super Smash Bros. series and the follow-up to the Nintendo 64 title. It includes all playable characters from the first game, and also adds characters from franchises such as Fire Emblem, of which no games had been released outside Japan at the time. Super Smash Bros. Melee builds on the first game by adding new gameplay features and playable characters: it's major focus is the multiplayer mode, while still offering a number of single-player modes.",
+        "total_rating": 94.4454602562434,
+        "total_rating_count": 512
+    },
+    {
+        "companies": [
+            "Naughty Dog",
+            "Sony Interactive Entertainment"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1r0o.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 26192,
+        "name": "The Last of Us Part II",
+        "pegi-rating": 5,
+        "platforms": [
+            "PlayStation 4"
+        ],
+        "release_date": 1592524800,
+        "slug": "the-last-of-us-part-ii",
+        "summary": "Set 5 years after the events of The Last of Us, we see the return of Joel and Ellie. Driven by hatred, Ellie sets out for Seattle to serve justice. However, she begins to wonder what justice really means.",
+        "total_rating": 94.34818630778881,
+        "total_rating_count": 398
+    },
+    {
+        "companies": [
+            "BioWare",
+            "Electronic Arts",
+            "BioWare Edmonton",
+            "BioWare Montreal"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co20ac.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 74,
+        "name": "Mass Effect 2",
+        "pegi-rating": 5,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 3",
+            "Xbox 360"
+        ],
+        "release_date": 1264464000,
+        "slug": "mass-effect-2",
+        "summary": "Are you prepared to lose everything to save the galaxy? You'll need to be, Commander Shephard. It's time to bring together your greatest allies and recruit the galaxy's fighting elite to continue the resistance against the invading Reapers. So steel yourself, because this is an astronomical mission where sacrifices must be made. You'll face tougher choices and new, deadlier enemies. Arm yourself and prepare for an unforgettable intergalactic adventure. \n \nGame Features: \n \nShift the fight in your favour. Equip yourself with powerful new weapons almost instantly thanks to a new inventory system. Plus, an improved health regeneration system means you'll spend less time hunting for restorative items. \n \nMake every decision matter. Divisive crew members are just the tip of the iceberg, Commander, because you'll also be tasked with issues of intergalactic diplomacy. And time's a wastin' so don't be afraid to use new prompt-based actions that let you interrupt conversations, even if they could alter the fate of your crew...and the galaxy. \n \nForge new alliances, carefully. You'll fight alongside some of your most trustworthy crew members, but you'll also get the opportunity to recruit new talent. Just choose your new partners with care because the fate of the galaxy rests on your shoulders, Commander.",
+        "total_rating": 93.67979633994449,
+        "total_rating_count": 1645
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "Retro Studios"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1o28.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 1105,
+        "name": "Metroid Prime",
+        "pegi-rating": 3,
+        "platforms": [
+            "Nintendo GameCube"
+        ],
+        "release_date": 1037491200,
+        "slug": "metroid-prime",
+        "summary": "Everyone's favorite heroine, Samus Aran, is back! Packed to the gills with exploration, creative power-ups, and wicked enemies, Metroid Prime is a first-person adventure worthy of the Metroid stamp. An action-packed adventure set in the first-person perspective, Metroid Prime takes place just after the events in the original Metroid (NES). It has lead character Samus Aran, a bounty hunter by trade, chasing down the evil Space Pirates. Their intention is to use a genetic mutagen called Phazon to create a super army and take over the universe. While the installments in the series before have never been home to deeply involving storylines, Metroid Prime breaks the shell to offer up one of the most intriguing and read-worthy sagas yet. Developed by Texas-based Retro Studios. Metroid Prime brings all of the elements of the acclaimed franchise into a massive 3D arena.",
+        "total_rating": 93.62279533666755,
+        "total_rating_count": 485
+    },
+    {
+        "companies": [
+            "Atlus",
+            "Atlus USA",
+            "P Studio",
+            "Deep Silver"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1r76.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 9927,
+        "name": "Persona 5",
+        "pegi-rating": 4,
+        "platforms": [
+            "PlayStation 3",
+            "PlayStation 4"
+        ],
+        "release_date": 1473897600,
+        "slug": "persona-5",
+        "summary": "Persona 5, a turn-based JRPG with visual novel elements, follows a high school student with a criminal record for a crime he didn't commit. Soon he meets several characters who share similar fates to him, and discovers a metaphysical realm which allows him and his friends to channel their pent-up frustrations into becoming a group of vigilantes reveling in aesthetics and rebellion while fighting corruption.",
+        "total_rating": 93.6220175962305,
+        "total_rating_count": 554
+    },
+    {
+        "companies": [
+            "WB Games",
+            "Bandai Namco Entertainment",
+            "cdp.pl",
+            "1C Company",
+            "Spike ChunSoft",
+            "CD Projekt RED",
+            "D3T Limited"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1wyy.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 1942,
+        "name": "The Witcher 3: Wild Hunt",
+        "pegi-rating": 5,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch"
+        ],
+        "release_date": 1431993600,
+        "slug": "the-witcher-3-wild-hunt",
+        "summary": "RPG and sequel to The Witcher 2 (2011), The Witcher 3 follows witcher Geralt of Rivia as he seeks out his former lover and his young subject while intermingling with the political workings of the wartorn Northern Kingdoms. Geralt has to fight monsters and deal with people of all sorts in order to solve complex problems and settle contentious disputes, each ranging from the personal to the world-changing.",
+        "total_rating": 93.58095070985036,
+        "total_rating_count": 2611
+    },
+    {
+        "companies": [
+            "Epic Games",
+            "Digital Extremes",
+            "GT Interactive",
+            "Infogrames",
+            "MacSoft Games"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co2k3b.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 272,
+        "name": "Unreal Tournament",
+        "platforms": [
+            "Linux",
+            "PC (Microsoft Windows)",
+            "PlayStation 2",
+            "Mac",
+            "Dreamcast"
+        ],
+        "release_date": 943228800,
+        "slug": "unreal-tournament",
+        "summary": "The first game in the Unreal series which has come to revolutionize game physics in the present. Unreal is a first person shooter with futuristic weapons, ammo, and arenas.",
+        "total_rating": 93.33343673511806,
+        "total_rating_count": 176
+    },
+    {
+        "companies": [
+            "Take-Two Interactive",
+            "Rockstar Games"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1q1f.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 25076,
+        "name": "Red Dead Redemption 2",
+        "pegi-rating": 5,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 4",
+            "Xbox One",
+            "Google Stadia"
+        ],
+        "release_date": 1540512000,
+        "slug": "red-dead-redemption-2",
+        "summary": "Developed by the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America's unforgiving heartland. The game's vast and atmospheric world will also provide the foundation for a brand new online multiplayer experience.",
+        "total_rating": 93.2681694310873,
+        "total_rating_count": 1043
+    },
+    {
+        "companies": [
+            "Rockstar North",
+            "Rockstar Games",
+            "Take-Two Interactive"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co2lbd.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 1020,
+        "name": "Grand Theft Auto V",
+        "pegi-rating": 5,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 3",
+            "Xbox 360",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "release_date": 1416268800,
+        "slug": "grand-theft-auto-v",
+        "summary": "The biggest, most dynamic and most diverse open world ever created, Grand Theft Auto V blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game's three lead characters, playing all sides of the game's interwoven story.",
+        "total_rating": 93.25594911559566,
+        "total_rating_count": 2956
+    },
+    {
+        "companies": [
+            "Nintendo EAD",
+            "Nintendo"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co21ro.jpg",
+        "esrb-rating": 8,
+        "igbd-id": 1077,
+        "name": "Super Mario Galaxy",
+        "pegi-rating": 1,
+        "platforms": [
+            "Wii",
+            "Wii U",
+            "Nintendo Switch"
+        ],
+        "release_date": 1193875200,
+        "slug": "super-mario-galaxy",
+        "summary": "A 3D platformer and first Wii entry in the Super Mario franchise, Super Mario Galaxy sees Mario jump across planets and galaxies with varying items, enemies, geographies and gravity mechanics in order to reach his enemy Bowser, who has attacked the Mushroom Kingdom and hijacked Princess Peach's castle with her inside.",
+        "total_rating": 93.24091280898784,
+        "total_rating_count": 607
+    },
+    {
+        "companies": [
+            "Nintendo of America",
+            "Nintendo of Europe",
+            "Nintendo",
+            "Nintendo EPD",
+            "1-UP Studio"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1mxf.jpg",
+        "esrb-rating": 9,
+        "igbd-id": 26758,
+        "name": "Super Mario Odyssey",
+        "pegi-rating": 2,
+        "platforms": [
+            "Nintendo Switch"
+        ],
+        "release_date": 1509062400,
+        "slug": "super-mario-odyssey",
+        "summary": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities, like the power to capture and control objects, animals, and enemies to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser's wedding plans!",
+        "total_rating": 93.21747438489791,
+        "total_rating_count": 815
+    },
+    {
+        "companies": [
+            "Supergiant Games"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1qub.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 113112,
+        "name": "Hades",
+        "pegi-rating": 3,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "Mac",
+            "Nintendo Switch"
+        ],
+        "release_date": 1600300800,
+        "slug": "hades--1",
+        "summary": "A rogue-lite hack and slash dungeon crawler in which Zagreus, son of Hades the Greek god of the dead, attempts to escape his home and his oppressive father by fighting the souls of the dead through the various layers of the ever-shifting underworld, while getting to know and forging relationships with its inhabitants.",
+        "total_rating": 93.0232795523647,
+        "total_rating_count": 174
+    },
+    {
+        "companies": [
+            "Naughty Dog",
+            "Sony Computer Entertainment, Inc. (SCEI)"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1r7f.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 1009,
+        "name": "The Last of Us",
+        "pegi-rating": 5,
+        "platforms": [
+            "PlayStation 3"
+        ],
+        "release_date": 1371168000,
+        "slug": "the-last-of-us",
+        "summary": "A third person shooter/stealth/survival hybrid, in which twenty years after the outbreak of a parasitic fungus which takes over the neural functions of humans, Joel, a Texan with a tragic familial past, finds himself responsible with smuggling a fourteen year old girl named Ellie to a militia group called the Fireflies, while avoiding strict and deadly authorities, infected fungal hosts and other violent survivors.",
+        "total_rating": 92.86855589913975,
+        "total_rating_count": 1929
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "Nintendo EAD"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co21tl.jpg",
+        "esrb-rating": 8,
+        "igbd-id": 1078,
+        "name": "Super Mario Galaxy 2",
+        "pegi-rating": 1,
+        "platforms": [
+            "Wii",
+            "Wii U"
+        ],
+        "release_date": 1274572800,
+        "slug": "super-mario-galaxy-2",
+        "summary": "Super Mario Galaxy 2 is the sequel to Super Mario Galaxy and the fourth 3D platformer entry in the Mario franchise. The sequel retains many elements from its predecessor, such as the adventure being in outer space, the element of gravity, and recurring objects such as Launch Stars and Sling Stars. Returning items include the Bee Mushroom and the Fire Flower. However, the game introduces new elements as well, such as the utilization of Yoshi, new power-ups like the Cloud Flower, and the use of a guide within the game for beginner players.",
+        "total_rating": 92.8258827391614,
+        "total_rating_count": 492
+    },
+    {
+        "companies": [
+            "MicroProse",
+            "Koei"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1y9x.jpg",
+        "igbd-id": 902,
+        "name": "Sid Meier's Civilization",
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation",
+            "PC DOS",
+            "Mac",
+            "Amiga",
+            "Super Nintendo Entertainment System (SNES)",
+            "Atari ST/STE"
+        ],
+        "release_date": 662688000,
+        "slug": "sid-meiers-civilization",
+        "summary": "Sid Meier's Civilization is a turn-based strategy computer game created by Sid Meier for MicroProse in 1991.The game's objective is \"...to build an empire that would stand the test of time\". The game begins in 4000 BC, and the players attempt to expand and develop their empires through the ages until modern and near-future times. It is also known simply as Civilization.",
+        "total_rating": 92.8197941184206,
+        "total_rating_count": 102
+    },
+    {
+        "companies": [
+            "Naughty Dog",
+            "Sony Computer Entertainment, Inc. (SCEI)"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1r7h.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 7331,
+        "name": "Uncharted 4: A Thief's End",
+        "pegi-rating": 4,
+        "platforms": [
+            "PlayStation 4"
+        ],
+        "release_date": 1462838400,
+        "slug": "uncharted-4-a-thief-s-end",
+        "summary": "Several years after his last adventure, retired fortune hunter, Nathan Drake, is forced back into the world of thieves. With the stakes much more personal, Drake embarks on a globe-trotting journey in pursuit of a historical conspiracy behind a fabled pirate treasure. His greatest adventure will test his physical limits, his resolve, and ultimately what he's willing to sacrifice to save the ones he loves.",
+        "total_rating": 92.72540209083765,
+        "total_rating_count": 1330
+    },
+    {
+        "companies": [
+            "ZA/UM"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1sfj.jpg",
+        "igbd-id": 26472,
+        "name": "Disco Elysium",
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "Mac",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch",
+            "PlayStation 5",
+            "Xbox Series"
+        ],
+        "release_date": 1571097600,
+        "slug": "disco-elysium",
+        "summary": "A CRPG in which, waking up in a hotel room a total amnesiac with highly opinionated voices in his head, a middle-aged detective on a murder case inadvertently ends up playing a part in the political dispute between a local labour union and a larger international body, all while struggling to piece together his past, diagnose the nature of the reality around him and come to terms with said reality.",
+        "total_rating": 92.66162966567956,
+        "total_rating_count": 152
+    },
+    {
+        "companies": [
+            "Square"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co2eqc.jpg",
+        "esrb-rating": 9,
+        "igbd-id": 1802,
+        "name": "Chrono Trigger",
+        "pegi-rating": 3,
+        "platforms": [
+            "Wii",
+            "PC (Microsoft Windows)",
+            "PlayStation",
+            "Super Nintendo Entertainment System (SNES)",
+            "Nintendo DS",
+            "Android",
+            "iOS",
+            "Super Famicom"
+        ],
+        "release_date": 1323388800,
+        "slug": "chrono-trigger",
+        "summary": "In this turn-based Japanese RPG, young Crono must travel through time through a misfunctioning teleporter to rescue his misfortunate companion and take part in an intricate web of past and present perils. The adventure that ensues soon unveils an evil force set to destroy the world, triggering Crono's race against time to change the course of history and bring about a brighter future.",
+        "total_rating": 92.54082337888575,
+        "total_rating_count": 754
+    },
+    {
+        "companies": [
+            "Naughty Dog",
+            "Sony Computer Entertainment, Inc. (SCEI)"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1tnb.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 565,
+        "name": "Uncharted 2: Among Thieves",
+        "pegi-rating": 4,
+        "platforms": [
+            "PlayStation 3"
+        ],
+        "release_date": 1255392000,
+        "slug": "uncharted-2-among-thieves",
+        "summary": "In the sequel to Drake's Fortune, Nathan Drake comes across a map that showcases the location of Marco Polo's missing ships. It takes him on a journey to find the infamous Cintamani Stone, and uncover the truth behind it.",
+        "total_rating": 92.50482203244249,
+        "total_rating_count": 1306
+    },
+    {
+        "companies": [
+            "tobyfox",
+            "temmie"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co2855.jpg",
+        "esrb-rating": 9,
+        "igbd-id": 12517,
+        "name": "Undertale",
+        "pegi-rating": 3,
+        "platforms": [
+            "Linux",
+            "PC (Microsoft Windows)",
+            "Mac",
+            "PlayStation Vita",
+            "PlayStation 4",
+            "Nintendo Switch"
+        ],
+        "release_date": 1442275200,
+        "slug": "undertale",
+        "summary": "A small child falls into the Underground, where monsters have long been banished by humans and are hunting every human that they find. The player controls the child as they try to make it back to the Surface through hostile environments, all the while engaging with a turn-based combat system with puzzle-solving and bullet hell elements, as well as other unconventional game mechanics.",
+        "total_rating": 92.1920064216269,
+        "total_rating_count": 916
+    },
+    {
+        "companies": [
+            "BioWare",
+            "LucasArts",
+            "Activision",
+            "Aspyr Media"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1tmz.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 116,
+        "name": "Star Wars: Knights of the Old Republic",
+        "pegi-rating": 3,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "Xbox",
+            "Mac",
+            "Android",
+            "iOS"
+        ],
+        "release_date": 1369872000,
+        "slug": "star-wars-knights-of-the-old-republic",
+        "summary": "Star Wars: Knights of the Old Republic is a role-playing video game developed by BioWare and published by LucasArts. The game's system is based on Wizards of the Coast's Star Wars Roleplaying Game, which is based on the d20 role-playing game system derived from the Third Edition Dungeons & Dragons (D&D) rules. \n \nPlayers choose from three basic character classes at the beginning of the game, and later choose from three Jedi sub-classes. Beyond class, a character has \"skills\" stats, tiered \"feats\", and later on, tiered Force powers, similar to magic spells in fantasy games. Feats and Force powers are unlocked every few level-ups, while the player is given skill points to distribute among their skills every level. \n \nThe game is a part of the Star Wars Legends Universe.",
+        "total_rating": 92.11232544402725,
+        "total_rating_count": 827
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "Nintendo EAD"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1n6b.jpg",
+        "esrb-rating": 8,
+        "igbd-id": 1029,
+        "name": "The Legend of Zelda: Ocarina of Time",
+        "pegi-rating": 3,
+        "platforms": [
+            "Nintendo 64",
+            "Wii",
+            "Nintendo GameCube",
+            "Wii U",
+            "Virtual Console (Nintendo)"
+        ],
+        "release_date": 911606400,
+        "slug": "the-legend-of-zelda-ocarina-of-time",
+        "summary": "A 3D reimagining of the core premise of The Legend of Zelda: A Link to the Past (1991), Ocarina of Time follows Link, the protagonist, as he picks up a sword and leaves behind his humble origins in order to trek across the land of Hyrule, venture into its treacherous dungeons and travel through time itself to fulfill his destiny as the Hero of Time by defeating his enemy Ganondorf and ridding Hyrule of evil.",
+        "total_rating": 92.0097154119677,
+        "total_rating_count": 1223
+    },
+    {
+        "companies": [
+            "Valve Corporation",
+            "Electronic Arts"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1rs4.jpg",
+        "esrb-rating": 9,
+        "igbd-id": 72,
+        "name": "Portal 2",
+        "pegi-rating": 3,
+        "platforms": [
+            "Linux",
+            "PC (Microsoft Windows)",
+            "PlayStation 3",
+            "Xbox 360",
+            "Mac"
+        ],
+        "release_date": 1303171200,
+        "slug": "portal-2",
+        "summary": "Sequel to the acclaimed Portal (2007), Portal 2 pits the protagonist of the original game, Chell, and her new robot friend, Wheatley, against more puzzles conceived by GLaDOS, an A.I. with the sole purpose of testing the Portal Gun's mechanics and taking revenge on Chell for the events of Portal. As a result of several interactions and revelations, Chell once again pushes to escape Aperture Science Labs.",
+        "total_rating": 91.94758224196079,
+        "total_rating_count": 2232
+    },
+    {
+        "companies": [
+            "Bethesda Game Studios",
+            "Bethesda Softworks"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1tnw.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 472,
+        "name": "The Elder Scrolls V: Skyrim",
+        "pegi-rating": 5,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 3",
+            "Xbox 360"
+        ],
+        "release_date": 1320969600,
+        "slug": "the-elder-scrolls-v-skyrim",
+        "summary": "The next chapter in the highly anticipated Elder Scrolls saga arrives from the makers of the 2006 and 2008 Games of the Year, Bethesda Game Studios. Skyrim reimagines and revolutionizes the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose.  \n \nPlay any type of character you can imagine, and do whatever you want; the legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before. Skyrim's new game engine brings to life a complete virtual world with rolling clouds, rugged mountains, bustling cities, lush fields, and ancient dungeons.  \n \nChoose from hundreds of weapons, spells, and abilities. The new character system allows you to play any way you want and define yourself through your actions.  \n \nBattle ancient dragons like you've never seen. As Dragonborn, learn their secrets and harness their power for yourself.",
+        "total_rating": 91.91796039057189,
+        "total_rating_count": 2282
+    },
+    {
+        "companies": [
+            "Lucas Pope",
+            "3909",
+            "3909"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co27j9.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 9643,
+        "name": "Return of the Obra Dinn",
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "Mac",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch"
+        ],
+        "release_date": 1539820800,
+        "slug": "return-of-the-obra-dinn",
+        "summary": "In this 1-bit first-person mystery game, a merchant ship called the Obra Dinn has appeared at a London harbor, years after being declared lost at sea. As an insurance adjuster, the player must examine the ship for clues.",
+        "total_rating": 91.8700162678327,
+        "total_rating_count": 127
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "Creatures Inc.",
+            "HAL Laboratory"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co25p5.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 2899,
+        "name": "EarthBound",
+        "pegi-rating": 3,
+        "platforms": [
+            "Super Nintendo Entertainment System (SNES)",
+            "Game Boy Advance",
+            "Wii U",
+            "Virtual Console (Nintendo)"
+        ],
+        "release_date": 1363737600,
+        "slug": "earthbound",
+        "summary": "Join Ness, Paula, Jeff, and Poo in a sci-fi turn-based JRPG adventure as they fight a mysterious alien force named Giygas in a quirky land based off of the real world. EarthBound (known as MOTHER2 in Japan) is a distant sequel to the original EarthBound Beginnings, with many characters, themes, and tunes borrowed from its predecessor. Many of the characters and settings are very similar, but the only explicitly returning character is Giygas, who swears revenge at the end of the first game.",
+        "total_rating": 91.8618267954281,
+        "total_rating_count": 280
+    },
+    {
+        "companies": [
+            "Konami"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1nh3.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 1128,
+        "name": "Castlevania: Symphony of the Night",
+        "pegi-rating": 3,
+        "platforms": [
+            "PlayStation",
+            "Sega Saturn",
+            "Android",
+            "Xbox Live Arcade",
+            "iOS",
+            "PlayStation Network"
+        ],
+        "release_date": 858816000,
+        "slug": "castlevania-symphony-of-the-night",
+        "summary": "A seminal 2D metroidvania in which after the events of Castlevania: Rondo of Blood (1993), a man named Alucard arrives at Dracula's castle after it rises from the rubble, and seeks to defeat the evil contained within it once and for all by exploring, fighting its inhabitants and collecting the various weapons and abilities hidden in its depths.",
+        "total_rating": 91.78095340380216,
+        "total_rating_count": 358
+    },
+    {
+        "companies": [
+            "Rockstar Games",
+            "Rockstar North",
+            "Take-Two Interactive"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co2lb9.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 732,
+        "name": "Grand Theft Auto: San Andreas",
+        "pegi-rating": 5,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 2",
+            "PlayStation 3",
+            "Xbox",
+            "Xbox 360",
+            "Mac",
+            "Android",
+            "Xbox Live Arcade",
+            "iOS",
+            "PlayStation 4"
+        ],
+        "release_date": 1098748800,
+        "slug": "grand-theft-auto-san-andreas",
+        "summary": "Returning after his mother's murder to the semi-fictional city of Los Santos (based on Los Angeles), Carl Johnson, a former gang banger, must take back the streets for his family and friends by gaining respect and once again gaining control over the streets. However, a story filled with crime, lies and corruption will lead him to trudge the entire state of San Andreas (based on California and Nevada) to rebuild his life.",
+        "total_rating": 91.74099607647965,
+        "total_rating_count": 1970
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "Intelligent Systems Co., Ltd."
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co25us.jpg",
+        "esrb-rating": 8,
+        "igbd-id": 3349,
+        "name": "Paper Mario: The Thousand-Year Door",
+        "pegi-rating": 1,
+        "platforms": [
+            "Nintendo GameCube"
+        ],
+        "release_date": 1097452800,
+        "slug": "paper-mario-the-thousand-year-door",
+        "summary": "What Sleeps Behind the Door? Time passes, the pages turn, and a new chapter unfolds in an unfamiliar land! Get ready for a two-dimensional role-playing adventure for the ages as Mario returns to paper form to discover a mystery that sleeps behind an ancient, legendary portal called the Thousand-Year Door. The quest is long, the dangers many, and this time, Mario will have to make full use of his papery qualities just to survive. Take to the stage! Impressing the crowd builds power for super attacks, but don't disappoint the audience, or you'll pay! No need to go it alone! You'll need to rely on sidekicks to survive, and even enemies have roles to play. Don't fold under pressure! Fold into a paper airplane, turn sideways to slip through cracks, and much more. Stay on your toes! Stamp foes, swing your hammer, and use timely button presses to do damage!",
+        "total_rating": 91.65322919129405,
+        "total_rating_count": 241
+    },
+    {
+        "companies": [
+            "Team Cherry",
+            "Team Cherry"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1rgi.jpg",
+        "esrb-rating": 9,
+        "igbd-id": 14593,
+        "name": "Hollow Knight",
+        "pegi-rating": 2,
+        "platforms": [
+            "Linux",
+            "PC (Microsoft Windows)",
+            "Mac",
+            "Nintendo Switch"
+        ],
+        "release_date": 1487894400,
+        "slug": "hollow-knight",
+        "summary": "A 2D metroidvania with an emphasis on close combat and exploration in which the player enters the once-prosperous now-bleak insect kingdom of Hallownest, travels through its various districts, meets friendly inhabitants, fights hostile ones and uncovers the kingdom's history while improving their combat abilities and movement arsenal by fighting bosses and accessing out-of-the-way areas.",
+        "total_rating": 91.40683227373171,
+        "total_rating_count": 606
+    },
+    {
+        "companies": [
+            "Sony Computer Entertainment, Inc. (SCEI)",
+            "FromSoftware"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1rba.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 7334,
+        "name": "Bloodborne",
+        "pegi-rating": 4,
+        "platforms": [
+            "PlayStation 4"
+        ],
+        "release_date": 1427328000,
+        "slug": "bloodborne",
+        "summary": "An action RPG in which the player embodies a Hunter who, after being transfused with the mysterious blood local to the city of Yharnam, sets off into a \"night of the Hunt\", an extended night in which Hunters may phase in and out of dream and reality in order to thin the outbreak of abominable beasts that plague the land and, for the more resilient and insightful Hunters, uncover the answers to the Hunt's many mysteries.",
+        "total_rating": 91.32953478263275,
+        "total_rating_count": 865
+    },
+    {
+        "companies": [
+            "Saffire",
+            "Sony Interactive Entertainment",
+            "Digital Dialect",
+            "GT Interactive",
+            "Oddworld Inhabitants"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1y8i.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 999,
+        "name": "Oddworld: Abe's Oddysee",
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation",
+            "PlayStation 3",
+            "PC DOS",
+            "Game Boy",
+            "PlayStation Portable",
+            "PlayStation Vita"
+        ],
+        "release_date": 874627200,
+        "slug": "oddworld-abe-s-oddysee",
+        "summary": "Selected by the fickle finger of fate, Abe, floor-waxer first class for RuptureFarms, was catapulted into a life of adventure when he overheard plans by his boss, Molluck the Glukkon, to turn Abe and his fellow Mudokons into Tasty Treats as part of a last-ditch effort to rescue Molluck's failing meat-packing empire. During his escape from RuptureFarms, Abe received a vision from the mysterious Big Face, showing Abe that he must not only rescue his fellow Mudokons, but also protect all of Oddworld's creatures from the predatory Magog Cartel. After completing arduous Temple trials, and journeying across a wasteland with his faithful Elum, Abe was granted the awesome power of the Shrykull. Returning to RuptureFarms, Abe destroyed the foul slaughterhouse, rescued his buddies, and brought down some righteous lightning on top of Molluck's pointy head.",
+        "total_rating": 91.27913622873984,
+        "total_rating_count": 141
+    },
+    {
+        "companies": [
+            "Nicalis, Inc.",
+            "Edmund McMillen"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1lbm.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 7789,
+        "name": "The Binding of Isaac: Rebirth",
+        "pegi-rating": 4,
+        "platforms": [
+            "Linux",
+            "PC (Microsoft Windows)",
+            "Mac",
+            "Nintendo 3DS",
+            "iOS",
+            "Wii U",
+            "PlayStation Network",
+            "PlayStation Vita",
+            "PlayStation 4",
+            "Xbox One",
+            "New Nintendo 3DS"
+        ],
+        "release_date": 1415059200,
+        "slug": "the-binding-of-isaac-rebirth",
+        "summary": "The Binding of Isaac: Rebirth is a top down, procedurally-generated rougelike game, remade based on the original game The Binding of Isaac. You play as Isaac, a little boy who is chased to the basement by his mother who intends to kill Isaac for her savior. You explore different levels, collect items and try to defeat your mother.. and whatever other evil awaits you. If you die, you restart with none of your items you collected, and you must explore the basement and beyond again.",
+        "total_rating": 91.27436547904036,
+        "total_rating_count": 350
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "Nintendo R&D1"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1vci.jpg",
+        "esrb-rating": 8,
+        "igbd-id": 1107,
+        "name": "Metroid: Zero Mission",
+        "pegi-rating": 2,
+        "platforms": [
+            "Game Boy Advance",
+            "Wii U"
+        ],
+        "release_date": 1076284800,
+        "slug": "metroid-zero-mission",
+        "summary": "The full story of Samus Aran's first mission finally unfolds... The first Metroid game just scratched the surface of the cataclysmic events on planet Zebes, and at long last the rest of the tale has come to light. Experience the first of Samus's legendary adventures through all-new cut-scenes and action sequences as the bounty hunter races through the deeps toward her showdown with the leader of the Space Pirates. But will the end of Mother Brain really mean the end of the story...? Completion of the game unlocks an emulated version of the original Metroid game. Zero Mission also allow players to unlock the Metroid Fusion picture gallery by linking between Zero Mission and Fusion cartridges via the Game Boy Advance Game Link Cable.",
+        "total_rating": 91.25584306107025,
+        "total_rating_count": 160
+    },
+    {
+        "companies": [
+            "SIE Santa Monica Studio",
+            "Sony Computer Entertainment, Inc. (SCEI)",
+            "Wholesale Algorithms["
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co25w7.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 499,
+        "name": "God of War III",
+        "pegi-rating": 5,
+        "platforms": [
+            "PlayStation 3"
+        ],
+        "release_date": 1268870400,
+        "slug": "god-of-war-iii",
+        "summary": "Set in the realm of brutal Greek mythology, God of War III is a single-player game that allows players to take on the climatic role of the ex-Spartan warrior, Kratos, as he scales through the intimidating heights of Mt. Olympus and the dark depths of Hell to seek revenge on those who have betrayed him. Armed with double-chained blades, and an array of new weapons and magic for this iteration of the trilogy, Kratos must take on mythology's darkest creatures while solving intricate puzzles throughout his merciless quest to destroy Olympus. Utilizing a new game engine built from the ground up and state-of-the-art visual technologies, the development team behind God of War III has made standard-setting strides in giving players the realistic feel of actually being on the battlegrounds. With texture resolutions quadrupling since God of War II on PlayStation 2 computer entertainment system, God of War III, in its debut on the PS3 system, will feature fluid, life-like characters, as well as dynamic lighting effects, a robust weapon system, and world-changing scenarios that will truly bring unmistakable realism to Kratos' fateful quest. Players will have a chance to join battles on a grand scale that is four times larger than its predecessor.",
+        "total_rating": 91.2166336825001,
+        "total_rating_count": 471
+    },
+    {
+        "companies": [
+            "Nintendo",
+            "Nintendo EAD Group No. 3"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co1uij.jpg",
+        "esrb-rating": 10,
+        "igbd-id": 1036,
+        "name": "The Legend of Zelda: Twilight Princess",
+        "pegi-rating": 3,
+        "platforms": [
+            "Nintendo GameCube"
+        ],
+        "release_date": 1165017600,
+        "slug": "the-legend-of-zelda-twilight-princess",
+        "summary": "Link, a young man raised as a wrangler in a small, rural village, is ordered by the mayor to attend the Hyrule Summit. He sets off, oblivious to the dark fate that has descended upon the kingdom. When he enters the Twilight Realm that has covered Hyrule, he transforms into a wolf and is captured. A mysterious figure named Midna helps him break free, and with the aid of her magic, they set off to free the land from the shadows. Link must explore the vast land of Hyrule and uncover the mystery behind its plunge into darkness. For Nintendo's long-awaited Legend of Zelda: Twilight Princess, the designers have split the game into two versions -- one for GameCube, and one specially designed to make use of the Wii utilizing the powers of the Wii controller for all-new ways of exploring Hyrule.",
+        "total_rating": 91.21228179128084,
+        "total_rating_count": 495
+    },
+    {
+        "companies": [
+            "Team Silent",
+            "Konami"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co2edz.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 481,
+        "name": "Silent Hill 2",
+        "pegi-rating": 4,
+        "platforms": [
+            "PC (Microsoft Windows)",
+            "PlayStation 2",
+            "Xbox"
+        ],
+        "release_date": 1001289600,
+        "slug": "silent-hill-2",
+        "summary": "The second entry in the Silent Hill franchise, Silent Hill 2 is a narrative-focused third-person psychological horror game with exploration and puzzle-solving elements which follows James Sunderland, a man who receives a letter, seemingly sent by his three-years-deceased wife Mary, in which he is beckoned to the fog-ridden town of Silent Hill at the same time as numerous other people troubled by their past.",
+        "total_rating": 91.1518860476774,
+        "total_rating_count": 621
+    },
+    {
+        "companies": [
+            "Platinum Games",
+            "Nintendo"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/qocwccspgmgamvhaplgp.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 2135,
+        "name": "Bayonetta 2",
+        "pegi-rating": 4,
+        "platforms": [
+            "Wii U",
+            "Nintendo Switch"
+        ],
+        "release_date": 1411171200,
+        "slug": "bayonetta-2",
+        "summary": "The witching hour strikes again. Brimming with intricate battles that take place in, on and all over epic set pieces, Bayonetta 2 finds our sassy heroine battling angels and demons in unearthly beautiful HD. You're bound to love how it feels to string together combos with unimaginable weapons and to summon demons using Bayonetta's Umbran Weave in this frantic stylized action game.",
+        "total_rating": 91.14468481454526,
+        "total_rating_count": 172
+    },
+    {
+        "companies": [
+            "Sucker Punch Productions",
+            "Sony Interactive Entertainment"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/co2crj.jpg",
+        "esrb-rating": 11,
+        "igbd-id": 75235,
+        "name": "Ghost of Tsushima",
+        "pegi-rating": 5,
+        "platforms": [
+            "PlayStation 4"
+        ],
+        "release_date": 1594944000,
+        "slug": "ghost-of-tsushima",
+        "summary": "The year is 1274. Samurai warriors are the legendary defenders of Japan until the fearsome Mongol Empire invades the island of Tsushima, wreaking havoc and conquering the local population. As one of the last surviving samurai, you rise from the ashes to fight back. But, honorable tactics won't lead you to victory. You must move beyond your samurai traditions to forge a new way of fighting the way of the Ghost as you wage an unconventional war for the freedom of Japan.",
+        "total_rating": 91.13678867904716,
+        "total_rating_count": 118
+    },
+    {
+        "companies": [
+            "LucasArts"
+        ],
+        "cover": "//images.igdb.com/igdb/image/upload/t_thumb/a0uq13rykbab3ot1n9hv.jpg",
+        "esrb-rating": 8,
+        "igbd-id": 193,
+        "name": "Day of the Tentacle",
+        "pegi-rating": 2,
+        "platforms": [
+            "PC DOS",
+            "Mac"
+        ],
+        "release_date": 740966400,
+        "slug": "day-of-the-tentacle",
+        "summary": "Day of the Tentacle, also known as Maniac Mansion II: Day of the Tentacle, is a 1993 graphic adventure game developed and published by LucasArts. It is the sequel to the 1987 game Maniac Mansion. The game's plot follows Bernard Bernoulli and his friends Hoagie and Laverne as they attempt to stop the evil Purple Tentacle a sentient, disembodied tentacle from taking over the world. The player takes control of the three and solves puzzles while using time travel to explore different periods of history. Dave Grossman and Tim Schafer co-led the game's development, their first time in such a role. The pair carried over a limited amount of elements from Maniac Mansion and forwent the character selection aspect to simplify development. Inspirations included Chuck Jones cartoons and the history of the United States. Day of the Tentacle is the eighth LucasArts title to use the SCUMM engine, and the company's first title to feature voice acting. The game was released simultaneously on floppy disk and CD-ROM to critical acclaim and commercial success. Critics focused on its cartoon-style visuals and comedic elements. Day of the Tentacle has featured regularly in lists of \"top\" games published more than two decades after its release, and aspects have been referenced in popular culture.",
+        "total_rating": 91.04577147195761,
+        "total_rating_count": 216
+    }
+]
