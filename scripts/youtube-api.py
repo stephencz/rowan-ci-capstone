@@ -1,4 +1,4 @@
-import time, json
+import json
 from googleapiclient.discovery import build
 
 # This is list/array of the top fifty highest rated video games
@@ -90,10 +90,6 @@ for game in games:
         video['video-id'] = item['id']['videoId']
 
         videos.append(video)
-
-    # The program sleeps for half a second so that we don't exceed
-    # the APIs request per second quota.
-    time.sleep(0.5)
 
 # Finally we save the data we retrieved as a JSON file
 with open('youtube-data.json', 'w') as file:

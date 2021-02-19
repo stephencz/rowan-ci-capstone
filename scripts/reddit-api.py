@@ -56,9 +56,9 @@ games = [
 
 reddit = praw.Reddit(client_id="",
                      client_secret="",
+                     username="CapstoneTest2",
                      password="",
-                     user_agent="",
-                     username="")
+                     user_agent="by u/CapstoneTest2")
 
 reddit_posts = []
 
