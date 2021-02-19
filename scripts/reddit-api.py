@@ -1,4 +1,4 @@
-import time, json
+import json
 import praw
 
 games = [
