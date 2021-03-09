@@ -54,10 +54,10 @@ games = [
     "Day of the Tentacle"
 ]
 
-reddit = praw.Reddit(client_id="",
-                     client_secret="",
-                     username="CapstoneTest2",
-                     password="",
+reddit = praw.Reddit(client_id="kKneZnO5G5k4Vw",
+                     client_secret="LcX9Wi3u-D-W4baWgiRKsk7dRp5WSg",
+                     username="CapstoneTest2021",
+                     password="Capstone2021",
                      user_agent="by u/CapstoneTest2")
 
 reddit_posts = []
