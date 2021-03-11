@@ -1,0 +1,286 @@
+.header-wrapper
+{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.header-wrapper .brand
+{
+    font-weight: 700;
+}
+
+.header-wrapper .brand a:link,
+.header-wrapper .brand a:active,
+.header-wrapper .brand a:visited,
+.header-wrapper .brand a:hover
+{
+    text-decoration: none;
+    color: #000;
+}
+
+.header-wrapper .description
+{
+    color: #a6a6a6;
+    padding-left: 5px;
+}
+
+.footer-wrapper
+{
+    color: #9d9696;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.game-list
+{
+    margin-bottom: 3rem;
+}
+
+.game-list .game-list-item
+{
+    display: flex;
+    flex-direction: row;
+
+    border: 1px solid #d9d9d9;
+    background-color: #fff;
+
+    margin-bottom: 1rem;
+
+    height: 92px;
+}
+
+.game-list .game-list-item .game-rank
+{
+    flex-basis: 100px;
+    flex-shrink: 0;
+
+    background-color: #eee;
+
+    font-size: 3rem;
+    text-align: center;
+    
+    padding-top: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.game-list .game-list-item .game-cover
+{
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+}
+
+.game-list .game-list-item .game-title
+{
+    flex-grow: 1;
+
+    font-size: 1.5rem;
+    padding: 28px 10px 0px 10px;
+}
+
+.game-list .game-list-item .game-title a:link,
+.game-list .game-list-item .game-title a:visited,
+.game-list .game-list-item .game-title a:active
+{
+    color: #6a6a6a;
+    text-decoration: none;
+}
+
+.game-list .game-list-item .game-title a:hover
+{
+    color: #000;
+    text-decoration: underline;
+}
+
+.game-list .game-list-item .game-rating
+{
+    flex-basis: 75px;
+    padding-top: 35px;
+}
+
+.game-info-body
+{
+    margin-bottom: 2rem;
+}
+
+.game-info-body .game-summary
+{
+    margin-bottom: 2rem;
+}
+
+.game-info-body .game-date,
+.game-info-body .game-average-rating,
+.game-info-body .game-total-rating
+{
+    display: inline;
+}
+
+.game-info-body .game-date,
+.game-info-body ul.game-platforms,
+.game-info-body ul.game-companies,
+.game-info-body .game-average-rating,
+.game-info-body .game-total-rating
+{
+    color: #737373;
+}
+
+.game-info-wrapper
+{
+    margin-bottom: 3rem;
+}
+
+.game-info-wrapper .game-info-side .game-cover
+{
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.game-info-wrapper .game-info-side .game-cover img
+{
+    border: 1px solid #000;
+}
+
+.game-info-wrapper .game-info-side .game-esrb-rp,
+.game-info-wrapper .game-info-side .game-esrb-ec,
+.game-info-wrapper .game-info-side .game-esrb-e,
+.game-info-wrapper .game-info-side .game-esrb-e10,
+.game-info-wrapper .game-info-side .game-esrb-t,
+.game-info-wrapper .game-info-side .game-esrb-m,
+.game-info-wrapper .game-info-side .game-esrb-ao,
+.game-info-wrapper .game-info-side .game-pegi-3,
+.game-info-wrapper .game-info-side .game-pegi-7,
+.game-info-wrapper .game-info-side .game-pegi-12,
+.game-info-wrapper .game-info-side .game-pegi-16,
+.game-info-wrapper .game-info-side .game-pegi-18
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.game-info-wrapper .game-info-side .game-esrb-rp,
+.game-info-wrapper .game-info-side .game-esrb-ec,
+.game-info-wrapper .game-info-side .game-esrb-e,
+.game-info-wrapper .game-info-side .game-esrb-e10,
+.game-info-wrapper .game-info-side .game-esrb-t,
+.game-info-wrapper .game-info-side .game-esrb-m,
+.game-info-wrapper .game-info-side .game-esrb-ao
+{
+    width: 60px;
+    height: 92px;
+    margin-bottom: 1rem;
+}
+
+.game-info-wrapper .game-info-side .game-esrb-rp {  background-image: url("/images/rating-pending.png"); }
+.game-info-wrapper .game-info-side .game-esrb-ec {  background-image: url("/images/early_child.png"); }
+.game-info-wrapper .game-info-side .game-esrb-e {  background-image: url("/images/everyone.png"); }
+.game-info-wrapper .game-info-side .game-esrb-e10 {  background-image: url("/images/everyone-ten.png"); }
+.game-info-wrapper .game-info-side .game-esrb-t {  background-image: url("/images/teen.png"); }
+.game-info-wrapper .game-info-side .game-esrb-m {  background-image: url("/images/mature.png"); }
+.game-info-wrapper .game-info-side .game-esrb-ao {  background-image: url("/images/adult-only.png"); }
+
+.game-info-wrapper .game-info-side .game-pegi-3,
+.game-info-wrapper .game-info-side .game-pegi-7,
+.game-info-wrapper .game-info-side .game-pegi-12,
+.game-info-wrapper .game-info-side .game-pegi-16,
+.game-info-wrapper .game-info-side .game-pegi-18
+{
+    width: 78px;
+    height: 96px;
+    background-size: cover;
+    margin-bottom: 1rem;
+}
+
+.game-info-wrapper .game-info-side .game-pegi-3 {  background-image: url("/images/pegi_3.png"); }
+.game-info-wrapper .game-info-side .game-pegi-7 {  background-image: url("/images/pegi_7.png"); }
+.game-info-wrapper .game-info-side .game-pegi-12 {  background-image: url("/images/pegi_12.png"); }
+.game-info-wrapper .game-info-side .game-pegi-16 {  background-image: url("/images/pegi_16.png"); }
+.game-info-wrapper .game-info-side .game-pegi-18 {  background-image: url("/images/pegi_18.png"); }
+
+@media (max-width: 991.98px)
+{
+    .game-list .game-list-item .game-title
+    {
+        flex-grow: 1;
+        font-size: 1rem;
+    }
+
+    .game-list .game-list-item .game-rating
+    {
+        flex-basis: 0px;
+        visibility: hidden;
+    }
+}
+
+@media (max-width: 767.98px) 
+{
+    .game-list .game-list-item .game-title
+    {
+        flex-grow: 1;
+        font-size: 1rem;
+    }
+
+    .game-list .game-list-item .game-rating
+    {
+        flex-basis: 0px;
+        visibility: hidden;
+    }
+
+    .game-info-wrapper .game-info-side .game-cover,
+    .game-info-wrapper .game-info-side .game-esrb-rp,
+    .game-info-wrapper .game-info-side .game-esrb-ec,
+    .game-info-wrapper .game-info-side .game-esrb-e,
+    .game-info-wrapper .game-info-side .game-esrb-e10,
+    .game-info-wrapper .game-info-side .game-esrb-t,
+    .game-info-wrapper .game-info-side .game-esrb-m,
+    .game-info-wrapper .game-info-side .game-esrb-ao,
+    .game-info-wrapper .game-info-side .game-pegi-3,
+    .game-info-wrapper .game-info-side .game-pegi-7,
+    .game-info-wrapper .game-info-side .game-pegi-12,
+    .game-info-wrapper .game-info-side .game-pegi-16,
+    .game-info-wrapper .game-info-side .game-pegi-18
+    {
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 20px;
+    }
+}
+
+@media (max-width: 575.98px) 
+{
+    .game-list .game-list-item .game-title
+    {
+        flex-grow: 1;
+        font-size: 1rem;
+
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .game-list .game-list-item .game-rating
+    {
+        flex-basis: 0px;
+        visibility: hidden;
+    }
+
+    .game-info-wrapper .game-info-side .game-cover,
+    .game-info-wrapper .game-info-side .game-esrb-rp,
+    .game-info-wrapper .game-info-side .game-esrb-ec,
+    .game-info-wrapper .game-info-side .game-esrb-e,
+    .game-info-wrapper .game-info-side .game-esrb-e10,
+    .game-info-wrapper .game-info-side .game-esrb-t,
+    .game-info-wrapper .game-info-side .game-esrb-m,
+    .game-info-wrapper .game-info-side .game-esrb-ao,
+    .game-info-wrapper .game-info-side .game-pegi-3,
+    .game-info-wrapper .game-info-side .game-pegi-7,
+    .game-info-wrapper .game-info-side .game-pegi-12,
+    .game-info-wrapper .game-info-side .game-pegi-16,
+    .game-info-wrapper .game-info-side .game-pegi-18
+    {
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 20px;
+    }
+}
+
+
+

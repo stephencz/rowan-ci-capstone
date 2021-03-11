@@ -1,10 +1,40 @@
 <!DOCTYPE html>
 <html>
-<head></head>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link href="css/styles.css" rel="stylesheet">
+
+    <title>Top 50 Games</title>
+
+</head>
 <body>
 
-    <h1>Hello Team</h1>
-    <p>This is our website for our project!</p>
+    <?php
+    ini_set('display_errors', 1);
+    ini_set('display_startup_errors', 1);
+    error_reporting(E_ALL);?>
+
+    <?php require('php/connect.php'); ?>
+    <?php require('php/igdb.php'); ?>
+
+    <div class="container">
+        <?php include('includes/header.html'); ?>
+
+        <div class="row">
+            <div class="col-md-10 mx-auto">
+                <?php render_game_list(); ?>
+            </div>
+        </div>
+
+        <?php include('includes/footer.html'); ?>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 
 </body>
 </html>

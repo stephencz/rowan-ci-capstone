@@ -7,6 +7,9 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <link href="css/styles.css" rel="stylesheet">
+	<link href="css/youtube.css" rel="stylesheet">
+	<link href="css/reddit.css" rel="stylesheet">
+	<link href="css/bing.css" rel="stylesheet">
 
     <?php
     ini_set('display_errors', 1);
@@ -15,6 +18,9 @@
 
     <?php require('php/connect.php'); ?>
     <?php require('php/igdb.php'); ?>
+	<?php require('php/youtube.php'); ?>
+	<?php require('php/reddit.php'); ?>
+	<?php require('php/bing.php'); ?>
 
     <title><?php echo get_game_data($_GET["game_id"], "game_name"); ?> - Top 50 Games</title>
 
@@ -37,8 +43,8 @@
                         </div>
                         <div class="game-summary"><?php echo get_game_data($_GET["game_id"], "game_summary"); ?></div>
 
-                        <div class="row">
-                            <div class="col-md-4">
+                        <div class="row" style="margin-bottom: 2rem; border-bottom: 1px solid #e3e3e3;">
+                            <div class="col-md-4" >
 
                                 <div style="margin-bottom: 1rem;">
                                     <span class="label">Release Date: </span>
@@ -81,6 +87,31 @@
                                 </div>
                             </div>
                         </div>
+						
+						<div class="row">
+							<div class="col-md-12">
+								<?php render_videos($_GET["game_id"]); ?>
+							</div>
+						</div>
+						
+						
+						<div style="margin-top: 2rem; margin-bottom: 2rem; border-bottom: 1px solid #e3e3e3;"></div>
+						<div class="row">
+							<div class="col-md-12">
+								<?php render_bing_images($_GET["game_id"]); ?>
+							</div>
+						</div>
+						
+						<div style="margin-top: 2rem; margin-bottom: 2rem; border-bottom: 1px solid #e3e3e3;"></div>
+						
+						<div class="row">
+							<div class="col-md-12">
+								<?php render_posts($_GET["game_id"]); ?>
+							</div>
+						</div>
+						
+						<div style="margin-top: 2rem; margin-bottom: 2rem; border-bottom: 1px solid #e3e3e3;"></div>
+						
                     </div>
                 </div>
 

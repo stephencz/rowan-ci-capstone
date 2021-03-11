@@ -11,6 +11,7 @@ function get_game($id) {
     $result = $connection->query($query);
 
     if($result->num_rows > 0) {
+		close_connection($connection);
         return $result->fetch_assoc();
     }
     else {

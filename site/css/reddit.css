@@ -1,0 +1,10 @@
+ul.game-reddit-list
+{
+	list-style: none;
+}
+
+ul.game-reddit-list li
+{
+	background-color: #e3e3e3;
+	padding: 10px;
+}
