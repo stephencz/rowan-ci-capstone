@@ -1,12 +1,21 @@
 # rowan-ci-capstone
 The source code for my Computing and Informatics Capstone course project at Rowan University. 
 The project is a group project in which each team member has to collect data from an API,
-store the data in a database, and create some project that uses the data.
+store the data in a database, and create some website or application that uses the data.
 
-For our project we are making a website which displays the top fifty highest rated games according to the IGDB API.
-Additionally, the website will display information about the game such as its publishers, release date, ESBR and PEGI ratings, YouTube videos showing off gameplay/trailers, and other information. 
+For our project we made a website which displays the top fifty highest rated video games of all time according to the [IGDB API](https://www.igdb.com/api).
+Along side data about each of the games, we retrieved the top five YouTube videos, Bing image search results, and Reddit posts for each game.
+
+## Project Members
+
+* Stephen Czekalski (IGDB)
+* Muntaha Tamanna (YouTube)
+* Matthew Nicora (Reddit)
+* Matt Stefano (Bing Image Search)
 
 ## Top Fifty Games
+
+Here are the Top Fifty Games at the time of the project:
 
 * Super Mario World
 * The Legend of Zelda: A Link to the Past
@@ -58,3 +67,7 @@ Additionally, the website will display information about the game such as its pu
 * Bayonetta 2
 * Ghost of Tsushima
 * Day of the Tentacle
+
+## Screenshots
+![Screenshot One](https://github.com/stephencz/rowan-ci-capstone/screenshot1.png)
+![Screenshot Two](https://github.com/stephencz/rowan-ci-capstone/screenshot2.png)
