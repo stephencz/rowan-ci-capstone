@@ -13,6 +13,16 @@ Alongside data about each of the games, we retrieved the top five YouTube videos
 * Matthew Nicora (Reddit)
 * Matt Stefano (Bing Image Search)
 
+## About the Project
+
+Rowan University's C&I Capstone Experience course is the culminating course for Computing and Informatics majors.
+The project is divided into four phases:
+
+1. Each member of the team must access an API and collect data around certain topic.
+2. The retrieved data then must be parsed, relevant data extracted, and stored in a database.
+3. Next, the data has to be put to work. A website or application must be made using the data.
+4. Finally, the final product is demoed and presented.
+
 ## Top Fifty Games
 
 Here are the Top Fifty Games at the time of the project:
