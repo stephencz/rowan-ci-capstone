@@ -70,4 +70,5 @@ Here are the Top Fifty Games at the time of the project:
 
 ## Screenshots
 ![Screenshot One](https://github.com/stephencz/rowan-ci-capstone/blob/master/screenshot1.PNG)
+
 ![Screenshot Two](https://github.com/stephencz/rowan-ci-capstone/blob/master/screenshot2.PNG)
