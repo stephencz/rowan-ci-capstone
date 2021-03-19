@@ -4,7 +4,7 @@ The project is a group project in which each team member has to collect data fro
 store the data in a database, and create some website or application that uses the data.
 
 For our project we made a website which displays the top fifty highest rated video games of all time according to the [IGDB API](https://www.igdb.com/api).
-Along side data about each of the games, we retrieved the top five YouTube videos, Bing image search results, and Reddit posts for each game.
+Alongside data about each of the games, we retrieved the top five YouTube videos, Bing image search results, and Reddit posts for each game.
 
 ## Project Members
 
